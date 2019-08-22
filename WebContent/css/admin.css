@@ -1,0 +1,54 @@
+#bg{
+	width: 100%;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#adlog{
+	position: absolute;
+	right: 200px;
+	top: 150px;
+	height: 400px;
+	width: 400px;
+	background: white;
+	padding-top: 150px;
+	padding-left: 100px;
+}
+#btn{
+	padding: 10px;
+	background-color: #5EB95E;
+	color: white;
+	font-size:20px;
+	width: 120px;
+}
+#clear{
+	padding: 10px;
+	background-color: #E6E6E6;
+	color: black;
+	font-size:20px;
+	width: 120px;
+}
+.input{
+	height: 50px;
+	width: 300px;
+}
+.logo{
+	height: 50px;
+	width: 50px;
+}
+span{
+	font: "Î¢ÈíÑÅºÚ";
+	font-size: 40px;
+	align-content: center;
+}
+
+#error{
+	color: red;
+	/* background-color: indianred; */
+	display: inline;
+}
+#deselect{
+	font-size:20px;
+	cursor:pointer;
+}
